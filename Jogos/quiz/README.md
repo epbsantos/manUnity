@@ -6,3 +6,4 @@
 
 ## Banco de questões
 - [Agatha Edu](https://www.projetoagathaedu.com.br/banco-de-questoes.php)
+- [Quiz C#](https://www.w3schools.com/quiztest/quiztest.asp?qtest=CS)
