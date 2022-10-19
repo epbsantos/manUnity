@@ -1,5 +1,7 @@
 # Manual de produção com o _software_ Unity
 
+epsantos@utfpr.edu.br
+
 ## Links úteis
 - [Site do Unity [EN]](https://unity.com/)
 - [Planos e políticas [EN]](https://store.unity.com/#plans-individual)
