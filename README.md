@@ -8,9 +8,18 @@ epsantos@utfpr.edu.br
 - [Aprendizado [EN]](https://learn.unity.com/)
 - [github Unity [EN]](https://github.com/Unity-Technologies)
 ---------------
+### Repositório (assets) de materiais
 - [itch.io](https://itch.io/game-assets/free)
 - [kenney](https://kenney.nl/assets/)
 - [OpenGameArt](https://opengameart.org/)
+
+------------------
+## Curso de Unity (free) [EN]
+- [Aprenter o básico intermediário](https://www.youtube.com/watch?v=AmGSEH7QcDg)
+- [Aprender o muiti-jogadores](https://www.youtube.com/watch?v=7glCsF9fv3s)
+
+
+--------------------
 
 ## Canais de YouTube
 - https://www.youtube.com/c/Unity3dCollege/videos
