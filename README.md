@@ -1,6 +1,6 @@
 # Manual de produção com o _software_ Unity
-
-epsantos@utfpr.edu.br
+e-mail:<br>epsantos@utfpr.edu.br
+discord:<epbsantos>
 
 ## Links úteis
 - [Site do Unity [EN]](https://unity.com/)
